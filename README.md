@@ -21,7 +21,7 @@ For H∞ performance analysis, run the following script:
 Parameters for the simulations can be modified in the `parameters.m` file.
 
 ### Parameters for the paper
-Parameters and results used in the paper is stored at `sim_result_paper` folder.
+Parameters and results used in the paper is stored at `data/sim_result_paper` folder.
 
 ## Continuous-Time Systems
 For continuous-time systems, refer to the following paper:  
