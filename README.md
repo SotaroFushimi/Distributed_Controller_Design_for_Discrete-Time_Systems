@@ -9,7 +9,7 @@ Distributed Controller Design for Discrete-Time Systems Via the Integration of E
 ## How to Use
 
 ### Stability Check
-To check the stability of the system, run the following script:
+For stability analysis, run the following script:
 `Stbl_script.m`  
 This script will return the number of cases where a stabilizer is successfully derived.
 
@@ -19,6 +19,9 @@ For H∞ performance analysis, run the following script:
 
 ### Modifying Parameters
 Parameters for the simulations can be modified in the `parameters.m` file.
+
+### Parameters for the paper
+Parameters and results used in the paper is stored at `sim_result_paper` folder.
 
 ## Continuous-Time Systems
 For continuous-time systems, refer to the following paper:  
